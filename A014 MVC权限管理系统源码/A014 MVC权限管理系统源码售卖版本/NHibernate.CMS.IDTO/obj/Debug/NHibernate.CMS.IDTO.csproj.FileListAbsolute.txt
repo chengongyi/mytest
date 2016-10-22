@@ -1,0 +1,146 @@
+F:\NHibernate\NHibernate.CMS\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.csprojResolveAssemblyReference.cache
+F:\NHibernate\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\Mapping\Customer.hbm.xml
+F:\NHibernate\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.dll
+F:\NHibernate\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.pdb
+F:\NHibernate\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\Iesi.Collections.dll
+F:\NHibernate\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.dll
+F:\NHibernate\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\NHibernate.dll
+F:\NHibernate\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.pdb
+F:\NHibernate\NHibernate.CMS\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.dll
+F:\NHibernate\NHibernate.CMS\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.pdb
+E:\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\Mapping\Customer.hbm.xml
+E:\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.dll
+E:\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.pdb
+E:\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\Iesi.Collections.dll
+E:\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.dll
+E:\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\NHibernate.dll
+E:\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.pdb
+E:\NHibernate.CMS\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.csprojResolveAssemblyReference.cache
+E:\NHibernate.CMS\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.dll
+E:\NHibernate.CMS\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.pdb
+E:\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\Mapping\dt_manager.hbm.xml
+E:\新建文件夹\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\Mapping\Customer.hbm.xml
+E:\新建文件夹\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\Mapping\dt_manager.hbm.xml
+E:\新建文件夹\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.dll
+E:\新建文件夹\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.pdb
+E:\新建文件夹\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\Iesi.Collections.dll
+E:\新建文件夹\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.dll
+E:\新建文件夹\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\NHibernate.dll
+E:\新建文件夹\NHibernate.CMS\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.pdb
+E:\新建文件夹\NHibernate.CMS\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.csprojResolveAssemblyReference.cache
+E:\新建文件夹\NHibernate.CMS\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.dll
+E:\新建文件夹\NHibernate.CMS\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.pdb
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\Customer.hbm.xml
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\dt_manager.hbm.xml
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_acl_group.hbm.xml
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_acl_user.hbm.xml
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_action.hbm.xml
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_Department.hbm.xml
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_group.hbm.xml
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_group_user.hbm.xml
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_module.hbm.xml
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_user.hbm.xml
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.dll
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.pdb
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Iesi.Collections.dll
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.dll
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\NHibernate.dll
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.pdb
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.csprojResolveAssemblyReference.cache
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.dll
+F:\NHibernate\nhibernatecms\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.pdb
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\Customer.hbm.xml
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\dt_manager.hbm.xml
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_acl_group.hbm.xml
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_acl_user.hbm.xml
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_action.hbm.xml
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_Department.hbm.xml
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_group.hbm.xml
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_group_user.hbm.xml
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_module.hbm.xml
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_user.hbm.xml
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.dll
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.pdb
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\Iesi.Collections.dll
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.dll
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\NHibernate.dll
+E:\nhibernatecms\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.pdb
+E:\nhibernatecms\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.csprojResolveAssemblyReference.cache
+E:\nhibernatecms\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.dll
+E:\nhibernatecms\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.pdb
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\Mapping\Customer.hbm.xml
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\Mapping\dt_manager.hbm.xml
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_acl_group.hbm.xml
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_acl_user.hbm.xml
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_action.hbm.xml
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_Department.hbm.xml
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_group.hbm.xml
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_group_user.hbm.xml
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_module.hbm.xml
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_user.hbm.xml
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.dll
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.pdb
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\Iesi.Collections.dll
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.dll
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\NHibernate.dll
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.pdb
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.csprojResolveAssemblyReference.cache
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.dll
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.pdb
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\Customer.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\dt_manager.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_acl_group.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_acl_user.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_action.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_Department.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_group.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_group_user.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_module.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_user.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.dll
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.pdb
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Iesi.Collections.dll
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.dll
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\NHibernate.dll
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.pdb
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.csprojResolveAssemblyReference.cache
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.dll
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.pdb
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\Customer.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\dt_manager.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_acl_group.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_acl_user.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_action.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_Department.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_group.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_group_user.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_module.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_user.hbm.xml
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.dll
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.pdb
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\Iesi.Collections.dll
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.dll
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\NHibernate.dll
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.pdb
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.csprojResolveAssemblyReference.cache
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.dll
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.pdb
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\Mapping\Customer.hbm.xml
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\Mapping\dt_manager.hbm.xml
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_acl_group.hbm.xml
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_acl_user.hbm.xml
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_action.hbm.xml
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_Department.hbm.xml
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_group.hbm.xml
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_group_user.hbm.xml
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_module.hbm.xml
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\Mapping\sys_user.hbm.xml
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.dll
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.IDTO.pdb
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\Iesi.Collections.dll
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.dll
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\NHibernate.dll
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\bin\Debug\NHibernate.CMS.Model.pdb
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.csprojResolveAssemblyReference.cache
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.dll
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.IDTO\obj\Debug\NHibernate.CMS.IDTO.pdb

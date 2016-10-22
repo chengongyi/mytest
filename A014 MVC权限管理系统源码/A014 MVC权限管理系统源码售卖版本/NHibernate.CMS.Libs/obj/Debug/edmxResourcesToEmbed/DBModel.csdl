@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="itCMSAccountModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="itCMSAccountEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sys_user" EntityType="itCMSAccountModel.sys_user" />
+    <EntitySet Name="sys_module" EntityType="itCMSAccountModel.sys_module" />
+    <EntitySet Name="sys_group" EntityType="itCMSAccountModel.sys_group" />
+    <EntitySet Name="sys_action" EntityType="itCMSAccountModel.sys_action" />
+    <EntitySet Name="sys_group_user" EntityType="itCMSAccountModel.sys_group_user" />
+    <EntitySet Name="sys_acl_user" EntityType="itCMSAccountModel.sys_acl_user" />
+    <EntitySet Name="sys_acl_group" EntityType="itCMSAccountModel.sys_acl_group" />
+    <EntitySet Name="sys_Department" EntityType="itCMSAccountModel.sys_Department" />
+    <EntitySet Name="sys_config" EntityType="itCMSAccountModel.sys_config" />
+    <EntitySet Name="sys_token" EntityType="itCMSAccountModel.sys_token" />
+  </EntityContainer>
+  <EntityType Name="sys_user">
+    <Key>
+      <PropertyRef Name="userID" />
+    </Key>
+    <Property Type="Int32" Name="userID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="userAccount" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="userPasswd" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="telephone" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="email" Nullable="true" MaxLength="50" />
+    <Property Type="Boolean" Name="status" Nullable="true" />
+    <Property Type="Int32" Name="departID" Nullable="true" />
+    <Property Type="String" Name="acctounName" Nullable="true" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sys_module">
+    <Key>
+      <PropertyRef Name="moduleID" />
+    </Key>
+    <Property Type="Int32" Name="moduleID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="moduleKey" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="moduleName" Nullable="false" MaxLength="50" />
+    <Property Type="Int32" Name="parentID" Nullable="false" />
+    <Property Type="String" Name="urls" Nullable="true" MaxLength="50" />
+    <Property Type="Boolean" Name="isMenu" Nullable="false" />
+    <Property Type="Boolean" Name="isDisplay" Nullable="false" />
+    <Property Type="Int32" Name="sort" Nullable="true" />
+    <Property Type="String" Name="icon" MaxLength="50" Nullable="true" />
+    <Property Type="Int32" Name="class_layer" Nullable="true" />
+  </EntityType>
+  <EntityType Name="sys_group">
+    <Key>
+      <PropertyRef Name="groupID" />
+    </Key>
+    <Property Type="Int32" Name="groupID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="groupName" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sys_action">
+    <Key>
+      <PropertyRef Name="actionID" />
+    </Key>
+    <Property Type="Int32" Name="actionID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="moduleKey" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="actionKey" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="actionName" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sys_group_user">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="groupID" Nullable="false" />
+    <Property Type="Int32" Name="userID" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sys_acl_user">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="userID" Nullable="false" />
+    <Property Type="Int32" Name="actionID" Nullable="false" />
+    <Property Type="Boolean" Name="access" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sys_acl_group">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="groupID" Nullable="false" />
+    <Property Type="Int32" Name="actionID" Nullable="false" />
+    <Property Type="Boolean" Name="access" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sys_Department">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="DeparName" Nullable="false" />
+    <Property Type="Int32" Name="parentID" Nullable="false" />
+    <Property Type="Int32" Name="sort" Nullable="true" />
+  </EntityType>
+  <EntityType Name="sys_config">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Type="Int32" Name="id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="type" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="name" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="name_cn" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="sort_id" />
+    <Property Type="Boolean" Name="is_lock" />
+    <Property Type="String" Name="comment" MaxLength="150" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="sys_token">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Type="Int32" Name="id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="DevId" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="AppId" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CertId" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ApiToken" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="ebay_account" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="name_cn" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="name_en" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="itCMSAccountModelStoreContainer" CdmEntityContainer="itCMSAccountEntities">
+    <EntitySetMapping Name="sys_config">
+      <EntityTypeMapping TypeName="itCMSAccountModel.sys_config">
+        <MappingFragment StoreEntitySet="sys_config">
+          <ScalarProperty Name="comment" ColumnName="comment" />
+          <ScalarProperty Name="is_lock" ColumnName="is_lock" />
+          <ScalarProperty Name="sort_id" ColumnName="sort_id" />
+          <ScalarProperty Name="name_cn" ColumnName="name_cn" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sys_token">
+      <EntityTypeMapping TypeName="itCMSAccountModel.sys_token">
+        <MappingFragment StoreEntitySet="sys_token">
+          <ScalarProperty Name="name_en" ColumnName="name_en" />
+          <ScalarProperty Name="name_cn" ColumnName="name_cn" />
+          <ScalarProperty Name="ebay_account" ColumnName="ebay_account" />
+          <ScalarProperty Name="ApiToken" ColumnName="ApiToken" />
+          <ScalarProperty Name="CertId" ColumnName="CertId" />
+          <ScalarProperty Name="AppId" ColumnName="AppId" />
+          <ScalarProperty Name="DevId" ColumnName="DevId" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

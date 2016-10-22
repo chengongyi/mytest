@@ -1,0 +1,52 @@
+F:\NHibernate\nhibernatecms\NHibernate.CMS.RedisFramework\bin\Debug\NHibernate.CMS.RedisFramework.dll
+F:\NHibernate\nhibernatecms\NHibernate.CMS.RedisFramework\bin\Debug\NHibernate.CMS.RedisFramework.pdb
+F:\NHibernate\nhibernatecms\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Common.dll
+F:\NHibernate\nhibernatecms\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Interfaces.dll
+F:\NHibernate\nhibernatecms\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Redis.dll
+F:\NHibernate\nhibernatecms\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Text.dll
+F:\NHibernate\nhibernatecms\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.csprojResolveAssemblyReference.cache
+F:\NHibernate\nhibernatecms\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.dll
+F:\NHibernate\nhibernatecms\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.pdb
+E:\nhibernatecms\NHibernate.CMS.RedisFramework\bin\Debug\NHibernate.CMS.RedisFramework.dll
+E:\nhibernatecms\NHibernate.CMS.RedisFramework\bin\Debug\NHibernate.CMS.RedisFramework.pdb
+E:\nhibernatecms\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Common.dll
+E:\nhibernatecms\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Interfaces.dll
+E:\nhibernatecms\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Redis.dll
+E:\nhibernatecms\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Text.dll
+E:\nhibernatecms\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.dll
+E:\nhibernatecms\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.pdb
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.RedisFramework\bin\Debug\NHibernate.CMS.RedisFramework.dll
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.RedisFramework\bin\Debug\NHibernate.CMS.RedisFramework.pdb
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Common.dll
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Interfaces.dll
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Redis.dll
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Text.dll
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.dll
+E:\郝光明工作\工作\代码审核\12月份工作\12.3\第九个mvc\最新\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.pdb
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\bin\Debug\NHibernate.CMS.RedisFramework.dll
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\bin\Debug\NHibernate.CMS.RedisFramework.pdb
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Common.dll
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Interfaces.dll
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Redis.dll
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Text.dll
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.csprojResolveAssemblyReference.cache
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.dll
+E:\C#程序管理\LuoMVC权限管理系统源码\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.pdb
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\bin\Debug\NHibernate.CMS.RedisFramework.dll
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\bin\Debug\NHibernate.CMS.RedisFramework.pdb
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Common.dll
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Interfaces.dll
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Redis.dll
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Text.dll
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.csprojResolveAssemblyReference.cache
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.dll
+E:\C#程序管理\LuoMVC权限管理系统源码(没测试)\LuoMVC权限管理系统源码\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.pdb
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.RedisFramework\bin\Debug\NHibernate.CMS.RedisFramework.dll
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.RedisFramework\bin\Debug\NHibernate.CMS.RedisFramework.pdb
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Common.dll
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Interfaces.dll
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Redis.dll
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.RedisFramework\bin\Debug\ServiceStack.Text.dll
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.csprojResolveAssemblyReference.cache
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.dll
+D:\NET\A014 MVC权限管理系统源码\A014 MVC权限管理系统源码售卖版本\NHibernate.CMS.RedisFramework\obj\Debug\NHibernate.CMS.RedisFramework.pdb
